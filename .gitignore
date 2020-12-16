@@ -1,0 +1,6 @@
+/build
+/_trash
+/node_modules
+/.vscode
+/.npmrc
+/src/config
