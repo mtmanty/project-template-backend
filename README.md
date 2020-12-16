@@ -6,6 +6,10 @@ The purpose of this project is to create a project template which provides Oauth
 
 ## Install
 
+Create src/config/keys.ts
+
+`export const googleKeys = { clientID: 'clientID here ', clientSecret: 'Cliensecret here', }; `
+
 `npm install -g typescript`
 
 `npm i`
